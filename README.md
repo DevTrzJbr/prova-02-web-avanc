@@ -38,9 +38,6 @@ npm run dev
 ## Uso
 Acesse [http://localhost:3000](http://localhost:3000) em seu navegador para visualizar.
 
-## Colaborador 
-Agradecimentos especiais ao meu amigo por auxilia no projeto: [Danieal Valadares Marculano](https://github.com/danielsmar)
-
 ## Licença
 Este projeto está licenciado sob a [MIT License](https://choosealicense.com/licenses/mit/). 
 

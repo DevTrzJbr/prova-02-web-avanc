@@ -1,7 +1,7 @@
 ### Aluno: João Víctor de Alcantara Antunes
-# Simulado 2º Bimeste - Web Avançada 
+# Prova 2º Bimeste - Web Avançada 
 
-Este é um projeto de um simulado para o 2º bimestre.
+Este é um projeto de um Prova para o 2º bimestre.
 
 O Projeto foi deselvolvido seguindo os critérios estabelecidos no blog. Foi utilizado no desenvolvimento [Next.js](https://nextjs.org), [Chakra UI](https://chakra-ui.com) e [Typescript](https://www.typescriptlang.org).
 # Instalação
